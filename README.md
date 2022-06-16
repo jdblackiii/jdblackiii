@@ -11,5 +11,5 @@
     - How important that is is up to you!
 - I'm proficient in Python, Java, and C.
     - I pick up new languages and libraries quickly
-### If you're a recruiter or have business questions, I can be recahed at jdblackiii@gmail.com
+### If you're a recruiter or have business questions, I can be reached at jdblackiii@gmail.com
 ### Otherwise, [connect with me on LinkedIn](https://www.linkedin.com/in/jd-black-34756017a/)
