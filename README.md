@@ -3,4 +3,3 @@
 - I'm an alum of The Ohio State University
 
 ### If you're a recruiter or have business questions, I can be reached at jdblackiii@gmail.com
-### Otherwise, [connect with me on LinkedIn](https://www.linkedin.com/in/jd-black-34756017a/)
